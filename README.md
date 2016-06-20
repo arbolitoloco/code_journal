@@ -14,5 +14,7 @@ Daily log
 
 2. First contribution to an open-source project on GitHub! Styled navigation menu for a landing page (Cursinho TransFormação; CSS/HTML).
 
-3. Learned about Twilio. So cool! Wrote Ruby script that works like a Magic 8 Ball, receives a question and texts the answer to my cell phone. 
+3. Learned about Twilio. So cool! Wrote Ruby script that works like a Magic 8 Ball, receives a question and texts the answer to my cell phone.
+
+4. Wrote Ruby script with Barometer gem, in order to query for weather forecast and current temperatures according to location parameters. 
 
