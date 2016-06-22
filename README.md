@@ -19,3 +19,5 @@ Daily log
 4. Wrote Ruby script with Barometer gem, in order to query for weather forecast and current temperatures according to location parameters. 
 
 5. Restyled navigation menu to be responsive (Cursinho TransFormação; CSS/HTML/JavaScript)
+
+6. Still working on weather app with Ruby and Barometer.
