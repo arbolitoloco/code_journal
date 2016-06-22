@@ -21,3 +21,5 @@ Daily log
 5. Restyled navigation menu to be responsive (Cursinho TransFormação; CSS/HTML/JavaScript)
 
 6. Still working on weather app with Ruby and Barometer.
+
+7. Finished weather app project with Ruby and graduated from Skillcrush Web Developer Blueprint! So proud!
