@@ -18,3 +18,4 @@ Daily log
 
 4. Wrote Ruby script with Barometer gem, in order to query for weather forecast and current temperatures according to location parameters. 
 
+5. Still developing weather app with Ruby. Advanced in getting responses from gem. 
