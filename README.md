@@ -23,3 +23,5 @@ Daily log
 6. Still working on weather app with Ruby and Barometer.
 
 7. Finished weather app project with Ruby and graduated from Skillcrush Web Developer Blueprint! So proud!
+
+8. Started building my Random Quote Machine for Free Code Camp with CSS/HTML/jQuery
