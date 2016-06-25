@@ -25,3 +25,5 @@ Daily log
 7. Finished weather app project with Ruby and graduated from Skillcrush Web Developer Blueprint! So proud!
 
 8. Started building my Random Quote Machine for Free Code Camp with CSS/HTML/jQuery
+
+9. Learning Jekyll in order to put my new repository to work. Wrote some things in Markdown.
