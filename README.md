@@ -27,3 +27,5 @@ Daily log
 8. Started building my Random Quote Machine for Free Code Camp with CSS/HTML/jQuery
 
 9. Learning Jekyll in order to put my new repository to work. Wrote some things in Markdown.
+
+10. Built a test app for Ruby on Rails. 
