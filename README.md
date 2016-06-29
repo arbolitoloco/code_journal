@@ -28,4 +28,6 @@ Daily log
 
 9. Learning Jekyll in order to put my new repository to work. Wrote some things in Markdown.
 
-10. Built a test app for Ruby on Rails. 
+10. Built a test app for Ruby on Rails.
+
+11. Learned about unit testing with RSpec and tried it out in some Ruby scripts.
