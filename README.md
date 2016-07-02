@@ -31,3 +31,5 @@ Daily log
 10. Built a test app for Ruby on Rails.
 
 11. Learned about unit testing with RSpec and tried it out in some Ruby scripts.
+
+12. Ruby Hashes practice. Solved scripting exercises.
