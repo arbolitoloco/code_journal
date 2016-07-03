@@ -33,3 +33,5 @@ Daily log
 11. Learned about unit testing with RSpec and tried it out in some Ruby scripts.
 
 12. Ruby Hashes practice. Solved scripting exercises.
+
+13. Ruby exercises: unit testing with RSpec, classes, builders. 
