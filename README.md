@@ -34,4 +34,12 @@ Daily log
 
 12. Ruby Hashes practice. Solved scripting exercises.
 
-13. Ruby exercises: unit testing with RSpec, classes, builders. 
+13. Ruby exercises: unit testing with RSpec, classes, builders.
+
+14. Started diving in Rails, learned about several gems, managed to make a simple app work locally in Windows by tweaking ExecJS issues.
+
+15. Built a Ruby on Rails app that uses Coursera's API to search through their courses catalog.
+
+16. Deployed my first Ruby on Rails app to Heroku!
+
+17. Built a Ruby on Rails app that uses Food2Fork's API to search for recipes.
