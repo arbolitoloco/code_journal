@@ -29,3 +29,4 @@ Daily log
 17. Built a Ruby on Rails app that uses Food2Fork's API to search for recipes.
 18. Carried on building a Random Quote Machine for Free Code Camp. JSON issues.
 19. Practised jQuery, learned more on APIs for Random Quote Machine. Styled a little with Bootstrap.
+20. Made progress with Random Quote Machine. JSON works and parses random quote into div. Still needs styling and other implementations.
