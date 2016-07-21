@@ -32,3 +32,4 @@ Daily log
 20. Made progress with Random Quote Machine. JSON works and parses random quote into div. Still needs styling and other implementations.
 21. Still working on Random Quote Machine. Get quote is now functional.
 22. Still working on Random Quote Machine. Now tweet this quote is functional too.
+23. Styling Random Quote Machine. Having trouble with positioning things. 
