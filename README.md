@@ -33,3 +33,4 @@ Daily log
 21. Still working on Random Quote Machine. Get quote is now functional.
 22. Still working on Random Quote Machine. Now tweet this quote is functional too.
 23. Styling Random Quote Machine. Having trouble with positioning things. 
+24. Styling Random Quote Machine. Needs styling for footer, twitter button. Thinking of implementing cyclic colors for background.
