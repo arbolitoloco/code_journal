@@ -35,3 +35,4 @@ Daily log
 23. Styling Random Quote Machine. Having trouble with positioning things. 
 24. Styling Random Quote Machine. Needs styling for footer, twitter button. Thinking of implementing cyclic colors for background.
 25. Working on assignment for Ruby on Rails course. Created Rails database with Active Record and implemented CRUD methods.
+26. Started Weather App for Free Code Camp. Figured out API for geolocation workaround on Chrome. Testing weather APIs.
