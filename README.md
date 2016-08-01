@@ -38,3 +38,4 @@ Daily log
 26. Started Weather App for Free Code Camp. Figured out API for geolocation workaround on Chrome. Testing weather APIs.
 27. Learning Wordpress! Installed WP on webhost, tested some themes.
 28. Learned abou LAMP/MAMP. Started a local server and tested some PHP code with HTML.
+29. Working with "nested" asynchronous JSON for Weather App.
