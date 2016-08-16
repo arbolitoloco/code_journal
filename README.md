@@ -39,3 +39,4 @@ Daily log
 27. Learning Wordpress! Installed WP on webhost, tested some themes.
 28. Learned abou LAMP/MAMP. Started a local server and tested some PHP code with HTML.
 29. Working with "nested" asynchronous JSON for Weather App.
+30. Improving responsiveness on menu for Cursinho Transformação landing page. Still needs styling, fixing hidden section tops, and menu closing when clickin a link. 
