@@ -38,5 +38,6 @@ Daily log
 26. Started Weather App for Free Code Camp. Figured out API for geolocation workaround on Chrome. Testing weather APIs.
 27. Learning Wordpress! Installed WP on webhost, tested some themes.
 28. Learned abou LAMP/MAMP. Started a local server and tested some PHP code with HTML.
-29. Working with "nested" asynchronous JSON for Weather App.
-30. Improving responsiveness on menu for Cursinho Transformação landing page. Still needs styling, fixing hidden section tops, and menu closing when clickin a link. 
+29. Working with "nested" asynchronous JSON for Weather App. 
+30. After a long time away, I'm back. Still having trouble with the Weather App. Must learn AJAX ASAP.
+31. Improving responsiveness on menu for Cursinho Transformação landing page. Still needs styling, fixing hidden section tops, and menu closing when clickin a link.
