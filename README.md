@@ -41,3 +41,4 @@ Daily log
 29. Working with "nested" asynchronous JSON for Weather App. 
 30. After a long time away, I'm back. Still having trouble with the Weather App. Must learn AJAX ASAP.
 31. Improving responsiveness on menu for Cursinho Transformação landing page. Still needs styling, fixing hidden section tops, and menu closing when clickin a link.
+32. Fixing menu details for Cursinho Transformação. Resolved all open issues. Phewww.
