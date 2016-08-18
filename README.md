@@ -43,3 +43,4 @@ Daily log
 31. Improving responsiveness on menu for Cursinho Transformação landing page. Still needs styling, fixing hidden section tops, and menu closing when clickin a link.
 32. Fixing menu details for Cursinho Transformação. Resolved all open issues. Phewww.
 33. Finally tackled issue with Weather App nested APIs. Used nested functions. Fixed problem with AJAX params. Still needs to select background and icon according with condition, general styling, and function to convert to C.
+34. Weather App: figured out temperature conversion button, working on conditional backgrounds.
