@@ -46,3 +46,5 @@ Daily log
 34. Weather App: figured out temperature conversion button, working on conditional backgrounds.
 35. Weather App: added conditional backgrounds, some styling.
 36. Finished styling Weather App.
+37. Ruby on Rails assignment for Coursera Specialization: created database with Active Record.
+38. Ruby on Rails assignment for Coursera Specialization: advance with associated tables and records, seeding records.
