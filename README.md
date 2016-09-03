@@ -48,3 +48,4 @@ Daily log
 36. Finished styling Weather App.
 37. Ruby on Rails assignment for Coursera Specialization: created database with Active Record.
 38. Ruby on Rails assignment for Coursera Specialization: advance with associated tables and records, seeding records.
+39. Algorithms, practice for coding test at Locaweb (passed cv screening! woohoo)
