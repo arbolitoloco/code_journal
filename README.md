@@ -50,3 +50,5 @@ Daily log
 38. Ruby on Rails assignment for Coursera Specialization: advance with associated tables and records, seeding records.
 39. Algorithms, practice for coding test at Locaweb (passed cv screening! woohoo)
 40. Finished Ruby on Rails assignment for Coursera Specialization. Worked with validation, SQL methods, and others.
+41. Finished another Ruby on Rails assignment from Coursera Specialization. Built a simple Todo List app.
+42. AAnd finished yet another Ruby on Rails assignment from Coursera Specialization. Built authorization system for secure login on Todo List app.
