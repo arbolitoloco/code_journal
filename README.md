@@ -52,3 +52,5 @@ Daily log
 40. Finished Ruby on Rails assignment for Coursera Specialization. Worked with validation, SQL methods, and others.
 41. Finished another Ruby on Rails assignment from Coursera Specialization. Built a simple Todo List app.
 42. AAnd finished yet another Ruby on Rails assignment from Coursera Specialization. Built authorization system for secure login on Todo List app.
+43. Learning WordPress development. Basic structure.
+44. Learning WordPress development. Local installation and theme basics.
