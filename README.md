@@ -54,3 +54,4 @@ Daily log
 42. AAnd finished yet another Ruby on Rails assignment from Coursera Specialization. Built authorization system for secure login on Todo List app.
 43. Learning WordPress development. Basic structure.
 44. Learning WordPress development. Local installation and theme basics.
+45. Learning WordPress development. HTML to PHP conversion basics.
