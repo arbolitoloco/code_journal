@@ -55,3 +55,11 @@ Daily log
 43. Learning WordPress development. Basic structure.
 44. Learning WordPress development. Local installation and theme basics.
 45. Learning WordPress development. HTML to PHP conversion basics.
+46. WordPress theme development.
+47. WordPress theme development.
+48. Introduction to PHP.
+49. WordPress theme development.
+50. Introduction to PHP.
+51. WordPress theme development.
+52. Wordpress theme development.
+53. Learned the basics of HTTP. Continued WordPress theme development.
