@@ -63,3 +63,4 @@ Daily log
 51. WordPress theme development.
 52. Wordpress theme development.
 53. Learned the basics of HTTP. Continued WordPress theme development.
+54. My first job as a web developer! Started building basic HTML structure and CSS styling for YABA landing page.
