@@ -65,3 +65,5 @@ Daily log
 53. Learned the basics of HTTP. Continued WordPress theme development.
 54. My first job as a web developer! Started building basic HTML structure and CSS styling for YABA landing page.
 55. Prototyped personal site with Bootstrap.
+56. Styled and added content to personal site.
+57. Added smooth-scroll and further styled personal site.
