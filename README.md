@@ -67,3 +67,6 @@ Daily log
 55. Prototyped personal site with Bootstrap.
 56. Styled and added content to personal site.
 57. Added smooth-scroll and further styled personal site.
+58. Transformed portfolio section of personal site into a devoted page.
+59. Started project for my first client (YABA)! Scratch made with Skeleton boilerplate. Coded basic HTML structure and added content.
+60. YABA: basic CSS styling, installed custom fonts, smooth scroll, styled floating menu.
