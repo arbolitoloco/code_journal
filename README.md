@@ -71,3 +71,5 @@ Daily log
 59. Started project for my first client (YABA)! Scratch made with Skeleton boilerplate. Coded basic HTML structure and added content.
 60. YABA: basic CSS styling, installed custom fonts, smooth scroll, styled floating menu.
 61. Fina Paca: WordPress basic installation, transfering to local server, theme alterations.
+62. Personal site: advanced styling.
+63. Personal site: content enhancing, advanced styling.
