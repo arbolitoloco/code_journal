@@ -73,3 +73,4 @@ Daily log
 61. Fina Paca: WordPress basic installation, transfering to local server, theme alterations.
 62. Personal site: advanced styling.
 63. Personal site: content enhancing, advanced styling.
+64. Personal site: updated links for portfolio.
