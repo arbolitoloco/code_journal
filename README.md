@@ -74,3 +74,4 @@ Daily log
 62. Personal site: advanced styling.
 63. Personal site: content enhancing, advanced styling.
 64. Personal site: updated links for portfolio.
+65. Personal site: updated portfolio descriptions, contact links, footer inspirations.
