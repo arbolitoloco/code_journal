@@ -75,3 +75,6 @@ Daily log
 63. Personal site: content enhancing, advanced styling.
 64. Personal site: updated links for portfolio.
 65. Personal site: updated portfolio descriptions, contact links, footer inspirations.
+66. Personal site: footer/contact done.
+67. Personal site: responsive design, transforming into mobile first.
+68. Personal site: SHIPPED IT!!!!
