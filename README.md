@@ -78,3 +78,4 @@ Daily log
 66. Personal site: footer/contact done.
 67. Personal site: responsive design, transforming into mobile first.
 68. Personal site: SHIPPED IT!!!!
+69. Yaba: shipped to personal domain, finished responsive adaptation. 
