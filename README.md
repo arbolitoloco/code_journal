@@ -79,3 +79,6 @@ Daily log
 67. Personal site: responsive design, transforming into mobile first.
 68. Personal site: SHIPPED IT!!!!
 69. Yaba: shipped to personal domain, finished responsive adaptation. 
+70. Fina Paca: redesign.
+71. Fina Paca: converting into WordPress.
+72. Fina Paca: converting into WordPress, configuring themes and adapting WooCommerce.
