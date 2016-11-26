@@ -82,3 +82,6 @@ Daily log
 70. Fina Paca: redesign.
 71. Fina Paca: converting into WordPress.
 72. Fina Paca: converting into WordPress, configuring themes and adapting WooCommerce.
+72. YABA: finishing touches.
+73. YABA: finishing touches.
+74. YABA: finishing touches.
